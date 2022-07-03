@@ -1,0 +1,12 @@
+{
+  "strategy_index": [1,2,3,4,5],
+
+  "details": {
+    "threshold": [0.1, 0.2]
+  },
+
+  "model": {
+    "max_age": [5,10,15,20],
+    "type": ["A","B","C"]
+  }
+}

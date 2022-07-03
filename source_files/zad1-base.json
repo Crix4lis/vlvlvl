@@ -1,0 +1,15 @@
+{
+  "strategy_index": 1,
+
+  "details": {
+    "threshold": 0.5,
+    "buffer_size": 6
+  },
+
+  "model": {
+    "type": "A",
+    "unit": 5,
+    "max_age": 5,
+    "calculation_cost": 0.3
+  }
+}
